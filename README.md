@@ -1,5 +1,6 @@
 # HobbyCodes
-This repo contains C implementation of the following Algorithms:
+This repo contains :
+C implementation of the following Algorithms:
 1)SelectionSort
 2)BubbleSort
 3)InsertionSort
@@ -14,3 +15,8 @@ This repo contains C implementation of the following Algorithms:
 12)SieveOfEranthoses
 13)StringMatching-BruteFore
 14)GenerationOfPalindradromes (n>10^10)
+C++ implementation of the following Data Structure:
+1)Stacks using arrays
+2)Stacks using linkedlist
+
+
