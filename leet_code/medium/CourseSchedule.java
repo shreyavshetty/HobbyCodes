@@ -1,5 +1,5 @@
 /**
-QuestionLink : https://leetcode.com/problems/number-of-islands
+QuestionLink : https://leetcode.com/problems/course-schedule/
 Time Complexity = O(v+e) n- no. of edges
 Space Complexity = O(v+e)
 **/
