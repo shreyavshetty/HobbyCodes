@@ -1,7 +1,7 @@
 /**
 QuestionLink : https://leetcode.com/problems/number-of-islands
-Time Complexity = O(n) n- no. of edges
-Space Complexity = O(n)
+Time Complexity = O(v+e) n- no. of edges
+Space Complexity = O(v+e)
 **/
 import java.util.*
 class CourseSchedule{
