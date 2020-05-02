@@ -1,9 +1,8 @@
 /**
-QuestionLink : https://leetcode.com/problems/course-schedule-ii/
-Time Complexity = O(v+e)
+QuestionLink : https://leetcode.com/problems/course-schedule/
+Time Complexity = O(v+e) n- no. of edges
 Space Complexity = O(v+e)
 **/
-import java.util.*
 class CourseSchedule2{
      boolean dfs(int num, List<List<Integer>> adjList, boolean[] visited, boolean[] rec, List<Integer> order)
     {
